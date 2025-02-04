@@ -7,6 +7,6 @@ Description: The main dataset for this project contained some basic information 
 
 Skills: data cleaning, data analysis, linear regression, data visualisation, sentiment analysis, word clouds
 
-Technology: Python, Pandas, Matplotlib, Linear regression, decision tree regressors,OLS
+Technology: Python, Pandas, Matplotlib, Linear regression, decision tree regressors,OLS, R , statistical analysis
 
 Results: The analysis identified key factors influencing loyalty points. A multilinear regression model showed improved accuracy, while clustering revealed five customer segments, with clusters 1 and 2 as prime marketing targets. Sentiment analysis of reviews highlighted opportunities to promote high-rated products and improve those with lower scores.
